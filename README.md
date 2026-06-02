@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-inky-phi-24.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-c7f94b?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://www.vasylchaban.com"><img src="https://img.shields.io/badge/Portfolio-Visit-c7f94b?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/vasyl-chaban-a80658215"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:vasylchaban12@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
