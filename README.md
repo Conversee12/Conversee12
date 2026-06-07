@@ -41,7 +41,6 @@
 
 - **[Portfolio + AI Lab](https://portfolio-inky-phi-24.vercel.app)** — describe an idea, get an instant LLM-generated MVP plan; streaming AI assistant grounded in real data. ([source](https://github.com/Conversee12/vasyl-portfolio))
 - **Solwees AI** — AI that answers every call, chat & DM and turns them into booked appointments.
-- **Zai — Money & Advice** — AI financial planning support, shipped end-to-end (React Native + Python).
 
 ### 📊 GitHub
 
