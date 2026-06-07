@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.vasylchaban.com"><img src="https://img.shields.io/badge/Portfolio-Visit-c7f94b?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/vasyl-chaban-a80658215"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:vasylchaban12@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -36,11 +35,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazonaws)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06b6d4?style=flat&logo=tailwindcss&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635bff?style=flat&logo=stripe&logoColor=white)
-
-### 🛠 Featured
-
-- **[Portfolio + AI Lab](https://portfolio-inky-phi-24.vercel.app)** — describe an idea, get an instant LLM-generated MVP plan; streaming AI assistant grounded in real data. ([source](https://github.com/Conversee12/vasyl-portfolio))
-- **Solwees AI** — AI that answers every call, chat & DM and turns them into booked appointments.
 
 ### 📊 GitHub
 
