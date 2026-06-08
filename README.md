@@ -38,11 +38,6 @@
 
 ### 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Conversee12&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Conversee12&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="top langs" />
-</p>
-
 ---
 
 <p align="center"><i>Got an idea? Let's ship it. → <a href="mailto:vasylchaban12@gmail.com">vasylchaban12@gmail.com</a></i></p>
