@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Vasyl 👋</h1>
 
 <p align="center">
-  <b>AI Engineer & Technical Co-Founder</b><br/>
-  I take ideas from zero to a live, scalable AI product — frontend, backend, cloud & AI.<br/>
+  <b>Full Stack Developer</b><br/>
+  I take ideas from zero to a live, scalable product — frontend, backend, cloud.<br/>
   <i>One person. Entire product.</i>
 </p>
 
@@ -15,7 +15,7 @@
 
 ### 🚀 What I do
 
-- **Ship full AI MVPs in weeks, not months** — auth, DB, payments, AI features, deploy.
+- **Ship full MVPs in weeks, not months** — auth, DB, payments, AI features, deploy.
 - **LLM features & integrations** — chatbots, RAG, agents, voice AI, smart automations with reliable prompts & guardrails.
 - **Technical co-founder on demand** — I own architecture, infra and delivery so founders can move fast.
 - **Web & mobile** — polished, fast products across web and React Native.
